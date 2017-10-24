@@ -2,3 +2,5 @@
 /.idea
 .env
 /db
+/src
+!/src/public/.gitkeep
